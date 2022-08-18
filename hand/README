@@ -1,3 +1,14 @@
-pip install opencv-python
-pip install numpy
-Python 3.9.12
+Hand painter
+
+Python Version:
+
+       Python 3.9.12
+       
+Packages used:
+
+          pip install opencv-python
+          pip install numpy
+          
+to run the code:
+
+     install the packages and type python Virtualmain.py
